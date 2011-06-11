@@ -6,6 +6,6 @@
     <redirectLogger>true</redirectLogger>
     <updateXml>true</updateXml>
     <warLocation></warLocation>
-    <extraInfo></extraInfo>
+    <extraInfo>++%3CResourceLink+name%3D%22jdbc%2Fpostgresql%22+global%3D%22jdbc%2Fpostgresql%22+type%3D%22javax.sql.DataSource%22%2F%3E</extraInfo>
     <webPath>/ex1</webPath>
 </tomcatProjectProperties>
